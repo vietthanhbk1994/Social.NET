@@ -1,0 +1,5 @@
+E:\Project\NET\Social\Social\Social.Core\bin\Debug\Social.Core.exe.config
+E:\Project\NET\Social\Social\Social.Core\bin\Debug\Social.Core.exe
+E:\Project\NET\Social\Social\Social.Core\bin\Debug\Social.Core.pdb
+E:\Project\NET\Social\Social\Social.Core\obj\Debug\Social.Core.exe
+E:\Project\NET\Social\Social\Social.Core\obj\Debug\Social.Core.pdb

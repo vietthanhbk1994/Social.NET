@@ -1,0 +1,16 @@
+E:\Project\NET\Social\Social\Social.Data\bin\Debug\Social.Data.exe.config
+E:\Project\NET\Social\Social\Social.Data\bin\Debug\Social.Data.exe
+E:\Project\NET\Social\Social\Social.Data\bin\Debug\Social.Data.pdb
+E:\Project\NET\Social\Social\Social.Data\bin\Debug\EntityFramework.dll
+E:\Project\NET\Social\Social\Social.Data\bin\Debug\EntityFramework.SqlServer.dll
+E:\Project\NET\Social\Social\Social.Data\bin\Debug\EntityFramework.xml
+E:\Project\NET\Social\Social\Social.Data\bin\Debug\EntityFramework.SqlServer.xml
+E:\Project\NET\Social\Social\Social.Data\obj\Debug\Social.Data.exe
+E:\Project\NET\Social\Social\Social.Data\obj\Debug\Social.Data.pdb
+E:\Project\NET\Social\Social\Social.Data\obj\Debug\Social.Data.csproj.GenerateResource.Cache
+E:\Project\NET\Social\Social\Social.Data\obj\Debug\Social.Data.Migrations.thanh.resources
+E:\Project\NET\Social\Social\Social.Data\bin\Debug\AutoMapper.dll
+E:\Project\NET\Social\Social\Social.Data\bin\Debug\Social.Core.exe
+E:\Project\NET\Social\Social\Social.Data\bin\Debug\Social.Core.pdb
+E:\Project\NET\Social\Social\Social.Data\bin\Debug\AutoMapper.xml
+E:\Project\NET\Social\Social\Social.Data\obj\Debug\Social.Data.csprojResolveAssemblyReference.cache
